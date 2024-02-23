@@ -26,7 +26,7 @@ def binary_search(arr, l, r, x):
 # Driver code
 arr = [2, 3, 4, 10, 40, 54, 61, 87]
 n = len(arr)
-x = 61
+x = 87
 
 result = exponential_search(arr, n, x)
 
