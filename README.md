@@ -18,3 +18,6 @@ We did sorting again with an intro to Linked Lists
 
 ### [Day-5](/Day-5/)
 Competitive programming - 101 with a few problems from CodeForces and brushed up on Linked lists (singular, doubly and circular).
+
+### [Day-6](/Day-6/)
+Linked list reversal
