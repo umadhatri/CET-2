@@ -21,3 +21,6 @@ Competitive programming - 101 with a few problems from CodeForces and brushed up
 
 ### [Day-6](/Day-6/)
 Linked list reversal
+
+### [Day-7](/Day-7/)
+Stack Operations
