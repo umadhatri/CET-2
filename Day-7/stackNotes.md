@@ -19,3 +19,5 @@ This is for the notes of Day - 7 (27.02.2024)
 ## Stack implementation
 1. A stack is empty if the top value is '-1' (if implemeted using arrays)
 2. If an element is added, increment the top.
+3. If the memory of is full, then the stack is said to have overflown.
+4. Pop will remove the top-most element. Direct access of elements is not allowed in a stack. Elements can only be accessed by popping elements.
