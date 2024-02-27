@@ -3,15 +3,14 @@
 using namespace std;
 int main() {
     stack <int> s1;
-    s1.push(66);
-    s1.push(67);
-    s1.push(68);
-    s1.push(69);
-    s1.push(70);
-    int num = 0;
-    s1.push(num);
-    s1.pop();
-    s1.pop();
+    int n, num;
+    cout << "Enter how any values you want to enter: " << endl;
+    cin >> n;
+    for(int i=0; i<n; i++) {
+        cout << "Enter element " << i+1 << ": ";
+        cin >> num;
+        s1.push(num);
+    }
     
     while (!s1.empty())
     {
