@@ -13,7 +13,7 @@ It is a linear data structure that follows First In First Out (FIFO) order. Inse
 3. As elements are inserted, rear++ (elements are added wherever rear points)
 4. If elements are to be accessed, they need to be dequeued.
 
-## Pseudocode for queue
+## Pseudocode for enqueue
 begin procedure enqueue: queue, data  
 if(size of queue > N) {  
     print "Error: Queue is full"  
@@ -21,3 +21,13 @@ if(size of queue > N) {
 }  
 rear = rear + 1  
 queue[ rear ] = item  
+
+## Psuedocode for dequeue
+begin procedure dequeue: queue  
+if(rear==-1 and fron==-1) {  
+    print("Queue is empty")  
+    return  
+}  
+item = queue[ front ]  
+front = front + 1  
+return item  
