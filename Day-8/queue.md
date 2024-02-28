@@ -6,3 +6,9 @@ It is a linear data structure that follows First In First Out (FIFO) order. Inse
 1. BFS in graphs
 2. Job scheduling in OS
 3. Data transfer
+
+## Queue important points
+1. If queue is empty, front = rear = -1
+2. Once element is inserted, front = rear = 0
+3. As elements are inserted, rear++ (elements are added wherever rear points)
+4. If elements are to be accessed, they need to be dequeued.
