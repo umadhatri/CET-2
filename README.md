@@ -24,3 +24,6 @@ Linked list reversal
 
 ### [Day-7](/Day-7/)
 Stack notes and problems on Stack
+
+### [Day-8](/Day-8/)
+Queues : notes, operations and problems
