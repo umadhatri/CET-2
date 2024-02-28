@@ -18,3 +18,12 @@ We did sorting again with an intro to Linked Lists
 
 ### [Day-5](/Day-5/)
 Competitive programming - 101 with a few problems from CodeForces and brushed up on Linked lists (singular, doubly and circular).
+
+### [Day-6](/Day-6/)
+Linked list reversal
+
+### [Day-7](/Day-7/)
+Stack notes and problems on Stack
+
+### [Day-8](/Day-8/)
+Queues : notes, operations and problems
