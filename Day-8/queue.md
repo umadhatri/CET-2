@@ -14,10 +14,10 @@ It is a linear data structure that follows First In First Out (FIFO) order. Inse
 4. If elements are to be accessed, they need to be dequeued.
 
 ## Pseudocode for queue
-begin procedure enqueue: queue, data
-if(size of queue > N) {
-    print "Error: Queue is full"
-    return 
-}
-rear = rear + 1
-queue[ rear ] = item
+begin procedure enqueue: queue, data  
+if(size of queue > N) {  
+    print "Error: Queue is full"  
+    return   
+}  
+rear = rear + 1  
+queue[ rear ] = item  
